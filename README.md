@@ -1,2 +1,2 @@
-# test-task
-test task for adv.cake
+# Техническое задание
+Создайте Deployment для приложения на Python в Kubernetes, который использует ConfigMap для передачи переменных окружения.
